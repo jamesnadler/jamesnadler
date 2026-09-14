@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @jamesnadler
-- 👀 I’m interested in Engineering & Computer Science.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m James
+- 👀 I’m an Electrical Engineering student at UF
+- 🌱 I’m currently learning C++
 
 <!---
 jamesnadler/jamesnadler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
